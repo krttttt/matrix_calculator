@@ -1,0 +1,7 @@
+<map id="matrix_add" name="matrix_add">
+<area shape="rect" id="Node000001" title="Складывает две матрицы." alt="" coords="5,32,101,60"/>
+<area shape="rect" id="Node000002" href="$matrix_8cpp.html#a00b3eed9347d1300084aa9b4b59faa14" title="Создание матрицы заданного размера." alt="" coords="149,5,261,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,35,136,31,131,33,102,40"/>
+<area shape="rect" id="Node000003" href="$matrix_8cpp.html#a4a9db3c0de82f0dd0ada2433b56dfaa4" title="Освобождение памяти, занятой матрицей." alt="" coords="156,57,254,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,51,144,60,138,61,101,56"/>
+</map>

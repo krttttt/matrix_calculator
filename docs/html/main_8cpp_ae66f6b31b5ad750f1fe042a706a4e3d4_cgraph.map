@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,60,141"/>
+<area shape="rect" id="Node000002" href="$matrix_8cpp.html#a00b3eed9347d1300084aa9b4b59faa14" title="Создание матрицы заданного размера." alt="" coords="299,61,411,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="37,111,61,64,81,39,106,20,145,6,177,4,211,10,252,20,288,33,323,52,317,53,286,38,250,25,210,15,177,9,146,11,109,25,85,43,65,67,41,113"/>
+<area shape="rect" id="Node000003" href="$matrix_8cpp.html#a4a9db3c0de82f0dd0ada2433b56dfaa4" title="Освобождение памяти, занятой матрицей." alt="" coords="306,138,404,166"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="49,138,76,159,109,175,157,184,207,184,255,177,300,170,295,171,256,183,207,189,156,189,107,180,73,163,49,144"/>
+<area shape="rect" id="Node000004" href="$matrix_8cpp.html#a22ddff2afbafb442af6b304fc45da953" title="Складывает две матрицы." alt="" coords="132,86,227,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="59,119,118,109,115,113,62,124"/>
+<area shape="rect" id="Node000005" href="$matrix_8cpp.html#ab25adc6286a85175b01f1545f3e8fbd4" title="Создание матрицы из одномерного массива (ВАРИАНТ 25)." alt="" coords="108,34,251,62"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="49,111,106,72,123,66,119,70,109,77,53,114"/>
+<area shape="rect" id="Node000006" href="$matrix_8cpp.html#acb87434bec1e8f89c319be6fd81a131d" title="Перемножает две матрицы." alt="" coords="117,138,242,166"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="60,129,104,137,99,140,61,134"/>
+<area shape="rect" id="Node000007" href="$matrix_8cpp.html#a1e1d167b2d075e1e724f94eb9e0259df" title="Вывод матрицы в консоль." alt="" coords="129,240,230,267"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="43,138,70,178,109,219,127,232,121,232,106,223,66,182,41,144"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="227,91,286,84,282,86,228,96"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="227,111,295,133,289,134,228,117"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="251,56,286,63,281,65,252,62"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="220,135,250,123,315,95,310,97,252,128,222,140"/>
+<area shape="poly" id="edge10_Node000006_Node000003" title=" " alt="" coords="242,149,294,151,289,153,243,155"/>
+</map>

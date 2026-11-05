@@ -1,0 +1,1 @@
+build/sudo docker build -t matrix-calculator .

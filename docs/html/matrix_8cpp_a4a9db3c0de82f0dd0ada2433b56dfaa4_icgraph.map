@@ -1,0 +1,11 @@
+<map id="free_matrix" name="free_matrix">
+<area shape="rect" id="Node000001" title="Освобождение памяти, занятой матрицей." alt="" coords="281,23,378,51"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,23,60,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,19,233,14,170,8,108,14,61,28,59,23,107,9,170,3,233,9,272,18"/>
+<area shape="rect" id="Node000003" href="$matrix_8cpp.html#a22ddff2afbafb442af6b304fc45da953" title="Складывает две матрицы." alt="" coords="123,23,218,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,38,218,40,218,34,268,37"/>
+<area shape="rect" id="Node000004" href="$matrix_8cpp.html#acb87434bec1e8f89c319be6fd81a131d" title="Перемножает две матрицы." alt="" coords="108,75,233,103"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="273,56,216,77,214,72,268,57"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="105,39,61,40,60,34,109,35"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="115,71,60,50,61,45,120,68"/>
+</map>
